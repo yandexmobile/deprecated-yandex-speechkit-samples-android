@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vocalizer Sample</string>
+    <string name="edit_text_hint">Enter your text, e.g. \'Привет!\'</string>
+    <string name="edit_text_default_value">Привет! Меня зовут Ермил.</string>
+</resources>

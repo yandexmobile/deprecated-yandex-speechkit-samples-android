@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhraseSpotter Sample</string>
+    <string name="model_mail_description">This model was trained for the following commands:\n— будильник на 7 утра\n— открыть почту\n— купить билет</string>
+</resources>
