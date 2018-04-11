@@ -1,0 +1,7 @@
+#Thu Apr 05 12:57:12 MSK 2018
+base.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d0a459b06fc2347e9be1c3903173b59b5182c0ce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d7039d4aa21d41297e694f106bccc30266ef445/classes.dex
+base.1=/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d7039d4aa21d41297e694f106bccc30266ef445
+file.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d0a459b06fc2347e9be1c3903173b59b5182c0ce/classes.dex

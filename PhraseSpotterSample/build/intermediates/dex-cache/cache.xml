@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/0717a072fe4a4a77f1c8c77a0e01804b348c19cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95c903140790ee9177bd0a45eea595e526f825ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/193f422da97b43e5eee5af83d999ae715b2a538e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd79e97ab495aaa6bb93ad06194b69c9097e0878/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/b94e0637d82b3e69b1b870bfe85dd6b7efd9a4a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8295d7e7b206897cab5c69303b91ad5cb30f459f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8391b9c5501ad0d8b58566ec7dfc66eab3460277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63be6203a78f264c7b3d0f70bf463cdaa652c803">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ddcffeebc98d6c262bc55069741493592c30dab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_50926489308c0f29bfd56a2632faa20ff2fadf76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/c090e69c82ea48642066694482cadf7e6cf18a07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01c050eaad65da899cb6ba2a2a2b514d0480e2c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_a7eab5a3f2e9daf1a87504579aa0bc718ac22975/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/dabfc3d90a492d23f21f616c412727105d9d0c51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ea0879daef7e38e2a047a51b91ad5b07f808922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/231ef2c04a377de083ef67a69097369042fedfaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_696e79212abecf8e890b3b78a6fd8be4503bfd6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/66b2a753c46a5c8d2f75a96c483ae9a8054e1fd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd300cafc8719c305e3973f50af8ee4b9c5098ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/dfc346194cd206128dcb5a611df223e4ee4fe87f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9902b0471df83e66eed0b0b2181cf60cf5c31a79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/5068277fd73e43cd5acaa883d0ff86888af7c31f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9381b075f58d258b43ceda9e557da7243b662aba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/016b72d968a4d9b569dc656ff016a76232a37e42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ad8d6bdf51294888f8fecf6c4101a8462cc0685/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_9068495f5390e7719c6a4d81c63d58ff7e198858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_a6d2d1c35ccccab9163ba404225625fa80c6f038/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_92d76b55ea2c81fb0a78b035be1e487595548c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/e20d1098a7275854a9dab096a22ae79f1fa4e09f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5097fdfe5c363557c89d438a7f4083863d55aea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/c2f8ed18bca76738508fa0e1d39d13a4db7eabc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e515db7b064d98f34c5f68848ff10b59d7f293a/classes.dex" />
+    </item>
+
+</items>

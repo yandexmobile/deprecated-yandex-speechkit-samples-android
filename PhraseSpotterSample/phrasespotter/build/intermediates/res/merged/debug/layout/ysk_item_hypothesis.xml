@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hypothesis_text"
+    style="@style/YSKTheme.SmallText"
+    android:paddingBottom="@dimen/ysk_small_text_bottom_margin"
+    android:textColor="?ysk_main_text_selector"
+    android:textIsSelectable="false" />

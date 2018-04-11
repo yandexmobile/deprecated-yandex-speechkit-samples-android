@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?ysk_dialog_background_color"
+    android:keepScreenOn="true"
+    tools:ignore="Overdraw">
+
+    <TextView
+        android:id="@+id/wait_a_second_text"
+        style="@style/YSKTheme.MainText.Gray"
+        android:paddingLeft="@dimen/ysk_text_with_ellipsis_left_padding"
+        android:text="@string/ysk_gui_moment" />
+
+    <ru.yandex.speechkit.gui.WaveTextView
+        android:id="@+id/speak_text"
+        style="@style/YSKTheme.MainText"
+        android:layout_height="@dimen/ysk_speak_text_height"
+        android:paddingLeft="@dimen/ysk_text_with_ellipsis_left_padding"
+        android:text="@string/ysk_gui_speak"
+        android:visibility="gone" />
+
+    <ru.yandex.speechkit.gui.AutoResizeTextView
+        android:id="@+id/partial_result_text"
+        style="@style/YSKTheme.MainText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top"
+        android:layout_marginBottom="@dimen/ysk_zero"
+        android:paddingBottom="@dimen/ysk_small_text_side_padding"
+        android:paddingLeft="@dimen/ysk_small_text_side_padding"
+        android:paddingRight="@dimen/ysk_small_text_side_padding"
+        android:paddingTop="@dimen/ysk_small_text_side_padding"
+        android:visibility="gone" />
+
+    <ru.yandex.speechkit.gui.CircleView
+        android:id="@+id/speak_ripple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:visibility="gone" />
+
+</FrameLayout>

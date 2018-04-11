@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/SampleStyle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/phrase_spotter_model_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/model_mail_description" />
+
+    <TextView
+        android:id="@+id/current_state_hint"
+        style="@style/CurrentStateHintStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/phrase_spotter_model_desc"
+        android:layout_marginTop="@dimen/element_vertical_margin"
+        android:background="@color/colorCurrentStateBkg"
+        android:text="@string/current_state_hint" />
+
+    <TextView
+        android:id="@+id/current_state"
+        style="@style/CurrentStateTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/current_state_hint" />
+
+</RelativeLayout>

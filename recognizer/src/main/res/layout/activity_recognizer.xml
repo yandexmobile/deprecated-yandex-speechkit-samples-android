@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/SampleStyle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RecognizerActivity">
+
+    <TextView
+        android:id="@+id/voice_volume_hint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/voice_volume_hint"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:id="@+id/voice_power_bar"
+        style="@style/VoiceVolumeStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/voice_volume_hint"
+        android:max="100"
+        android:progress="0" />
+
+    <TextView
+        android:id="@+id/result_hint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/voice_power_bar"
+        android:layout_marginTop="@dimen/element_vertical_margin"
+        android:text="@string/results_hint"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/result_hint" />
+
+    <TextView
+        android:id="@+id/current_state_hint"
+        style="@style/CurrentStateHintStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/result"
+        android:layout_marginTop="@dimen/element_vertical_margin"
+        android:text="@string/current_state_hint" />
+
+    <TextView
+        android:id="@+id/current_state"
+        style="@style/CurrentStateTextStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/current_state_hint" />
+
+    <LinearLayout
+        android:id="@+id/btn_holder"
+        style="?android:attr/buttonBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/current_state">
+
+        <Button
+            android:id="@+id/cancel_btn"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel_btn" />
+
+        <Button
+            android:id="@+id/start_btn"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/start_btn" />
+    </LinearLayout>
+</RelativeLayout>

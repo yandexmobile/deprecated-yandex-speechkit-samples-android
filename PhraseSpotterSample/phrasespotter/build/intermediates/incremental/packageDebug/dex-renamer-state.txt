@@ -1,0 +1,7 @@
+#Thu Apr 05 15:11:10 MSK 2018
+base.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ddcffeebc98d6c262bc55069741493592c30dab
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8391b9c5501ad0d8b58566ec7dfc66eab3460277/classes.dex
+base.1=/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8391b9c5501ad0d8b58566ec7dfc66eab3460277
+file.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ddcffeebc98d6c262bc55069741493592c30dab/classes.dex

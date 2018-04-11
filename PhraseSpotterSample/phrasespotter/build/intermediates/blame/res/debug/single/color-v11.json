@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/a-kononova/.android/build-cache/231ef2c04a377de083ef67a69097369042fedfaa/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/a-kononova/.android/build-cache/231ef2c04a377de083ef67a69097369042fedfaa/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

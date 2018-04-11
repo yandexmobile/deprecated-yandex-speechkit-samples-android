@@ -1,0 +1,7 @@
+#Thu Apr 05 15:13:58 MSK 2018
+base.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_829d002452aabd39bc28fb0611137e2e20bee9b1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c133b939c5f09d4d3209506cd34ccad8e1046798/classes.dex
+base.1=/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c133b939c5f09d4d3209506cd34ccad8e1046798
+file.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_829d002452aabd39bc28fb0611137e2e20bee9b1/classes.dex

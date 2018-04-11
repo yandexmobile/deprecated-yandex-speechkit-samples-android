@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/recognizer_dialog_outer_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    tools:ignore="UselessParent">
+
+    <FrameLayout
+        android:id="@+id/recognizer_dialog_content_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="?ysk_dialog_background_color"
+        android:clickable="true">
+
+        <TextView
+            style="@style/YSKTheme.MainText.Gray"
+            android:paddingLeft="@dimen/ysk_text_with_ellipsis_left_padding"
+            android:text="@string/ysk_gui_moment" />
+
+    </FrameLayout>
+
+</FrameLayout>

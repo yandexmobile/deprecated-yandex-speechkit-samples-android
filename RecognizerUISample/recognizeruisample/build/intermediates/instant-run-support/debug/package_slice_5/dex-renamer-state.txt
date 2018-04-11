@@ -1,0 +1,4 @@
+#Thu Apr 05 15:07:30 MSK 2018
+base.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerUISample/recognizeruisample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerUISample/recognizeruisample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

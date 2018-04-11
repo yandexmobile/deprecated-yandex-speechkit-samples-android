@@ -1,0 +1,4 @@
+#Thu Apr 05 15:13:57 MSK 2018
+base.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

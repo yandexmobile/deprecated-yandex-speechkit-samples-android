@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/src/debug/jniLibs"/></dataSet></merger>

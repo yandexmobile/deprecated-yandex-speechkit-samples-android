@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?ysk_dialog_background_color"
+    tools:ignore="Overdraw">
+
+    <TextView
+        android:id="@+id/clarify_title_text"
+        style="@style/YSKTheme.MainText"
+        android:layout_width="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/ysk_clarify_title_margin"
+        android:layout_marginTop="@dimen/ysk_clarify_title_margin"
+        android:background="?ysk_dialog_background_color"
+        android:text="@string/ysk_gui_specify_your_inquiry" />
+
+    <ListView
+        android:id="@+id/hypotheses_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/retry_text"
+        android:layout_below="@+id/clarify_title_text"
+        android:cacheColorHint="@null"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:listSelector="@android:color/transparent" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ysk_clarify_screen_retry_button_shadow_height"
+        android:layout_above="@+id/retry_text"
+        android:background="?ysk_dialog_bottom_shadow" />
+
+    <TextView
+        android:id="@+id/retry_text"
+        style="@style/YSKTheme.SmallText.Retry.Gray"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:background="?ysk_dialog_background_color"
+        android:clickable="true"
+        android:text="@string/ysk_gui_retry"
+        android:textColor="?ysk_gray_text_selector" />
+
+</RelativeLayout>

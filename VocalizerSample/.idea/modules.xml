@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VocalizerSample.iml" filepath="$PROJECT_DIR$/VocalizerSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vocalizersample/vocalizersample.iml" filepath="$PROJECT_DIR$/vocalizersample/vocalizersample.iml" />
+    </modules>
+  </component>
+</project>

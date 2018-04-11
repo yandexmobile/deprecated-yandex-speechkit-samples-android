@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/build/intermediates/res/merged/debug/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/build/intermediates/res/merged/debug/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/VocalizerSample/vocalizersample/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

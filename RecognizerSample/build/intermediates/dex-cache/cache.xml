@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/001ca12cd52e87cb2c7083990de0edc61e0b315d/output/jars/libs/yandex-websocket-client.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec719e294582406dc7a4b791cb8707f5d1b81d71">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/transforms/dex/debug/folders/1000/10/yandex-websocket-client_ef6da0abf687c18b84ae482921fc4db5cf07b092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0193e95d09d0fa712f51bdb1ac60d850d91e2e7">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d7039d4aa21d41297e694f106bccc30266ef445/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d0a459b06fc2347e9be1c3903173b59b5182c0ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a-kononova/.android/build-cache/001ca12cd52e87cb2c7083990de0edc61e0b315d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d087d2c6c77a002bca9859f30ea2ae658243c102">
+        <dex dex="/Users/a-kononova/Projects/yandex-speechkit-samples-android/RecognizerSample/recognizersample/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ff1fd6589c579cd432a294ca3d612dd8eeefdd6/classes.dex" />
+    </item>
+
+</items>

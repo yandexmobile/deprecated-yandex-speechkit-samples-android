@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.yandex.android:speechkit-internal-3.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/001ca12cd52e87cb2c7083990de0edc61e0b315d/output/jars/libs/yandex-websocket-client.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/001ca12cd52e87cb2c7083990de0edc61e0b315d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/001ca12cd52e87cb2c7083990de0edc61e0b315d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

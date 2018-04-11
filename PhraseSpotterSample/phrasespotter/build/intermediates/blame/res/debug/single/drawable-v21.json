@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/a-kononova/.android/build-cache/231ef2c04a377de083ef67a69097369042fedfaa/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/a-kononova/.android/build-cache/231ef2c04a377de083ef67a69097369042fedfaa/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/a-kononova/.android/build-cache/231ef2c04a377de083ef67a69097369042fedfaa/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/a-kononova/Projects/yandex-speechkit-samples-android/PhraseSpotterSample/phrasespotter/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/a-kononova/.android/build-cache/66b2a753c46a5c8d2f75a96c483ae9a8054e1fd9/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
