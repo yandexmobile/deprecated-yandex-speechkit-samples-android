@@ -2,6 +2,9 @@
   <img src="http://storage.mds.yandex.net/get-speechkit/28683/yandex_speechkit_pic.png" alt="Yandex SpeechKit" title="Yandex SpeechKit  Mobile SDK">
 </p>
 
+**UPDATE The project is outdated. To integrate with SpeechKit use gRPC and REST API from https://cloud.yandex.ru/docs/speechkit/**
+
+
 ## Yandex SpeechKit Mobile SDK Samples
 These samples demonstrate how to work with
 
